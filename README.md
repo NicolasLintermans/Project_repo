@@ -21,4 +21,11 @@ Project 2: Scripting
 
 
 Project 3: Data science
-  - TBA
+  - Using pandas, seaborn and bokeh, I took a closer look at the FIFA_19 dataset (credits in the file). First, I displayed its #rows and #columns and the dataset's
+    general statistics (#observations, mean, standard deviation etc.). As a way of exercising in getting more familiar in dealing with large datasets via Jupyter Notebook, 
+    I filtered age > 40 and made a new column with the difference between player value and wage.
+    
+    To visualise the dataset, I opted for seaborn. First, I made a scatterplot of wage against value. Naturally, players with (relatively) high value but low wage are interesting
+    to buy in the game. However, using this scatterplot would be time-consuming to draw conclusions, as it is not interactive (one would have to look it up in the dataset). 
+    So, to make this easier and more appealing, the visualiation could be made interactive using Bokeh. If you hover over the datapoints, the player's name, index, wage and value
+    is displayed.
