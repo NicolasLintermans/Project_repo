@@ -32,7 +32,7 @@ Project 3: Data science
     value is displayed.
 
 Project 4: Machine learning
-  - Flowers: using skikit-learn, a first glampse at machine learning was made possible. The available data was split into 20% test and 80% to train our model. The algorithm used 
+  - Flowers: using scikit-learn, a first glampse at machine learning was made possible. The available data was split into 20% test and 80% to train our model. The algorithm used 
     is kNN (k-nearest neighbors) for the classification with the amount of nearest datapoints (=n) equal to 3 (since the dataset is limited). Afterwards, the model is scored on
     its accuracy, which got between 96.67% and 100%. 
     The model was stored into joblib, so that the model could be called upon when needed (instead of needing it to run every
