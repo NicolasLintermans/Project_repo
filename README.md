@@ -13,4 +13,5 @@ Project 1: Web scraping
 
 
 Project 2: Scripting
-  - TBA
+  - Thumbnail image --> convert to PDF --> merge PDFs --> watermark PDF --> send email as 'user notification';
+  - Password checker via API
