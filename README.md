@@ -27,8 +27,8 @@ Project 3: Data science
     
     To visualise the dataset, I opted for seaborn. First, I made a scatterplot of wage against value. Naturally, players with (relatively) high value but low wage are interesting
     to buy in the game. However, using this scatterplot would be time-consuming to draw conclusions, as it is not interactive (one would have to look it up in the dataset). 
-    So, to make this easier and more appealing, the visualiation could be made interactive using Bokeh. If you hover over the datapoints, the player's name, index, wage and value
-    is displayed.
+    So, to make this easier and more appealing, the visualisation could be made interactive using Bokeh. If you hover over the datapoints, the player's name, index, wage and
+    value is displayed.
 
 Project 4: Machine learning
   - Flowers: using skikit-learn, a first glampse at machine learning was made possible. The available data was split into 20% test and 80% to train our model. The algorithm used 
