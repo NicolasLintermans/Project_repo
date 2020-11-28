@@ -34,5 +34,6 @@ Project 3: Data science
 Project 4: Machine learning
   - Flowers: using skikit-learn, a first glampse at machine learning was made possible. The available data was split into 20% test and 80% to train our model. The algorithm used 
     is kNN (k-nearest neighbors) for the classification with the amount of nearest datapoints (=n) equal to 3 (since the dataset is limited). Afterwards, the model is scored on
-    its accuracy, which got between 96.67% and 100%. The model was stored into joblib, so that the model could be called upon when needed (instead of needing it to run every
+    its accuracy, which got between 96.67% and 100%. 
+    The model was stored into joblib, so that the model could be called upon when needed (instead of needing it to run every
     time you run the file or (re)train the model). Finally, 2 examples were offered and the model was asked to predict what kind of iris it is.
