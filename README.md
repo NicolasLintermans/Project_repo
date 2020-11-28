@@ -16,3 +16,7 @@ Project 2: Scripting
   - Thumbnail image --> convert to PDF --> merge PDFs --> watermark PDF --> send email as 'user notification'.
     Please also refer to user_notification.html
   - Password checker via API
+
+
+Project 3: Data science
+  - TBA
