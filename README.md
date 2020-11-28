@@ -29,3 +29,6 @@ Project 3: Data science
     to buy in the game. However, using this scatterplot would be time-consuming to draw conclusions, as it is not interactive (one would have to look it up in the dataset). 
     So, to make this easier and more appealing, the visualiation could be made interactive using Bokeh. If you hover over the datapoints, the player's name, index, wage and value
     is displayed.
+
+Project 4: Machine learning
+  - Flowers: TBA
