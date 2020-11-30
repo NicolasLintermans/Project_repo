@@ -1,10 +1,15 @@
 # Project_repository
 
 Summary:
+  - Project 0: getting started
   - Project 1: web scraping 
   - Project 2: scripting
   - Project 3: data science
   - Project 4: machine learning
+
+  
+Project 0: Getting started
+  - Syntax, functional programming (map, zip), OOP, decorators, classes and multiple inheritance. 
 
 
 Project 1: Web scraping
