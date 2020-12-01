@@ -19,8 +19,7 @@ Project 1: Web scraping
 
 Project 2: Scripting
   - Note: I do NOT recommend passing your own password, as it is still stored 'somewhere'.
-  - Image handling and remote emails: thumbnail images, convert them to PDFs, merge them into 1 PDF, watermark it and, finally, send a remote email as 'user notification'.
-    Please also refer to user_notification.html.
+  - Scripting1: Image handling and remote emails: thumbnail images, convert them to PDFs, merge them into 1 PDF, watermark it and, finally, send a remote email as 'user               notification'. Please also refer to user_notification.html.
   - Password checker via API: a requirement for the last part of previous project (sending remote emails) was to disable 'less secured apps' within Google user settings.
     Consequently, as it should, you receive a warning email from Google regarding the security of your account. As this is critical, a password checker via API may prove to be
     purposeful. 
