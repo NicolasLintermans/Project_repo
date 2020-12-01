@@ -13,8 +13,8 @@ Project 0: Getting started
 
 
 Project 1: Web scraping
-  - Since I'm sometimes tempted to read more articles on Hacker News than I perhaps should, I figured it would be a great exercise to scrape the website itself.
-    So, as of now, it only returns a limited amount of articles (those with a vote count of 500 and higher).
+  - Since I'm sometimes tempted to read more articles on Hacker News than I perhaps should, I figured it would be a great exercise to scrape the website itself (via 
+    BeautifulSoup). So, as of now, it only returns a limited amount of articles (those with a vote count of 500 and higher). 
 
 
 Project 2: Scripting
