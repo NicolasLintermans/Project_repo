@@ -1,4 +1,4 @@
-# first_projects_repository
+# first_projects_repo
 
 Summary:
   - Project 0: getting started
