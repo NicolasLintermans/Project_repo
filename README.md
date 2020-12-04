@@ -1,4 +1,4 @@
-# first_projects_repo
+# first_python_projects
 
 Summary:
   - Project 0: getting started
