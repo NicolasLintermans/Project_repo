@@ -6,6 +6,8 @@ Summary:
   - Project 2: scripting
   - Project 3: data science
   - Project 4: machine learning
+    * Image analysis (flower iris) and prediction via scikit-learn
+    * Image analysis (giraffe) and prediction via ImagePrediction library
 
   
 Project 0: Getting started
@@ -42,3 +44,5 @@ Project 4: Machine learning
     on its accuracy, which got between 96.67% and 100%. 
     The model was stored into joblib, so that the model could be called upon when needed (instead of needing it to run every
     time you run the file or (re)train the model). Finally, 2 examples were offered and the model was asked to predict what kind of iris it is.
+    
+  - Giraffe: using the ImagePrediction library and the Squeezenet model, the predictive results of a giraffe were ruffed grouse, prarie chicken, cheetah etc.
