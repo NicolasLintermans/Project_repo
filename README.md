@@ -12,6 +12,7 @@ Summary:
 <br>
 Project 0: Getting started
   - Syntax, functional programming (map, zip), OOP, decorators, classes and multiple inheritance. 
+
 <br>
 
 Project 1: Web scraping
