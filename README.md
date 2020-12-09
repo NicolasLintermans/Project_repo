@@ -12,10 +12,12 @@ Summary:
 <br>
 Project 0: Getting started
   - Syntax, functional programming (map, zip), OOP, decorators, classes and multiple inheritance. 
+<br>
 
 Project 1: Web scraping
   - Since I'm sometimes tempted to read more articles on Hacker News than I perhaps should, I figured it would be a great exercise to scrape the website itself (via 
     BeautifulSoup). So, as of now, it only returns a limited amount of articles (those with a vote count of 500 and higher). 
+<br>
 
 Project 2: Scripting
   - Note: I do NOT recommend passing your own password, as it is still stored 'somewhere'.
@@ -24,6 +26,7 @@ Project 2: Scripting
   - Password checker via API: a requirement for the last part of previous project (sending remote emails) was to disable 'less secured apps' within Google user settings.
     Consequently, as it should, you receive a warning email from Google regarding the security of your account. As this is critical, a password checker via API may prove to be
     purposeful. 
+<br>
 
 Project 3: Data science
   - Using pandas, seaborn and bokeh, I took a closer look at the FIFA_19 dataset (credits in the file). First, I displayed its #rows and #columns and the dataset's
@@ -34,6 +37,7 @@ Project 3: Data science
     interesting to buy in the game. However, using this scatterplot would be time-consuming to draw conclusions, as it is not interactive (one would have to look it up in the
     dataset). So, to make this easier and more appealing, the visualisation could be made interactive using Bokeh. If you hover over the datapoints, the player's name, index,
     wage and value is displayed.
+<br>
 
 Project 4: Machine learning
   - Flowers: using scikit-learn, a first glampse at machine learning was made possible. The available data was split into 20% test and 80% to train our model. The algorithm used 
