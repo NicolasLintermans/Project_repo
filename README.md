@@ -1,6 +1,6 @@
 # first_python_projects
 
-Summary:
+## Summary:
   - Project 0: getting started
   - Project 1: web scraping 
   - Project 2: scripting
@@ -10,17 +10,17 @@ Summary:
     * Image analysis (giraffe) and prediction via ImagePrediction library 
 <br> 
 <br>
-Project 0: Getting started
+## Project 0: Getting started
   - Syntax, functional programming (map, zip), OOP, decorators, classes and multiple inheritance. 
 
 <br>
 
-Project 1: Web scraping
+## Project 1: Web scraping
   - Since I'm sometimes tempted to read more articles on Hacker News than I perhaps should, I figured it would be a great exercise to scrape the website itself (via 
     BeautifulSoup). So, as of now, it only returns a limited amount of articles (those with a vote count of 500 and higher). 
 <br>
 
-Project 2: Scripting
+## Project 2: Scripting
   - Note: I do NOT recommend passing your own password, as it is still stored 'somewhere'.
   - Scripting1: thumbnail images, convert them to PDFs, merge them into 1 PDF, watermark it and, finally, send a remote email as 'user notification'. Please also refer to
     user_notification.html.
@@ -29,7 +29,7 @@ Project 2: Scripting
     purposeful. 
 <br>
 
-Project 3: Data science
+## Project 3: Data science
   - Using pandas, seaborn and bokeh, I took a closer look at the FIFA_19 dataset (credits in the file). First, I displayed its #rows and #columns and the dataset's
     general statistics (#observations, mean, standard deviation etc.). As a way of exercising in getting more familiar in dealing with large datasets via Jupyter Notebook, 
     I filtered age > 40 and made a new column with the difference between player value and wage.
@@ -40,7 +40,7 @@ Project 3: Data science
     wage and value is displayed.
 <br>
 
-Project 4: Machine learning
+## Project 4: Machine learning
   - Flowers: using scikit-learn, a first glampse at machine learning was made possible. The available data was split into 20% test and 80% to train our model. The algorithm used 
     is kNN (k-nearest neighbors) for the classification with the amount of nearest datapoints (k) equal to 3 (since the dataset is very limited). Afterwards, the model is scored
     on its accuracy, which got between 96.67% and 100%. 
