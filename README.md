@@ -7,7 +7,7 @@ Summary:
   - Project 3: data science
   - Project 4: machine learning
     * Image analysis (flower iris) and prediction via scikit-learn
-    * Image analysis (giraffe) and prediction via ImagePrediction library
+    * Image analysis (giraffe) and prediction via ImagePrediction library <br>
 
   
 Project 0: Getting started
