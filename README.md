@@ -9,7 +9,7 @@
     * Image analysis (flower iris) and prediction via scikit-learn
     * Image analysis (giraffe) and prediction via ImagePrediction library 
 <br> 
-<br>
+
 ## Project 0: Getting started
   - Syntax, functional programming (map, zip), OOP, decorators, classes and multiple inheritance. 
 
