@@ -1,4 +1,5 @@
 # first_python_projects
+<br>
 
 ## Summary:
   - Project 0: getting started
