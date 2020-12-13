@@ -31,7 +31,7 @@
 <br>
 
 ## Project 3: Data science
-  - Using pandas, seaborn and bokeh, I took a closer look at the FIFA_19 dataset (credits in the file). First, I displayed its #rows and #columns and the dataset's
+  - Using Pandas, Seaborn and Bokeh, I took a closer look at the FIFA_19 dataset (credits in the file). First, I displayed its #rows and #columns and the dataset's
     general statistics (#observations, mean, standard deviation etc.). As a way of exercising in getting more familiar in dealing with large datasets via Jupyter Notebook, 
     I filtered age > 40 and made a new column with the difference between player value and wage.
     
@@ -42,10 +42,10 @@
 <br>
 
 ## Project 4: Machine learning
-  - Flowers: using scikit-learn, a first glampse at machine learning was made possible. The available data was split into 20% test and 80% to train our model. The algorithm used 
+  - Flowers: using Scikit-learn, a first glampse at machine learning was made possible. The available data was split into 20% test and 80% to train our model. The algorithm used 
     is kNN (k-nearest neighbors) for the classification with the amount of nearest datapoints (k) equal to 3 (since the dataset is very limited). Afterwards, the model is scored
     on its accuracy, which got between 96.67% and 100%. 
     The model was stored into joblib, so that the model could be called upon when needed (instead of needing it to run every
     time you run the file or (re)train the model). Finally, 2 examples were offered and the model was asked to predict what kind of iris it is.
     
-  - Giraffe: using the ImagePrediction library and the Squeezenet model, the predictive results of a giraffe were ruffed grouse, prarie chicken, cheetah etc.
+  - Giraffe: using the ImagePrediction library and the Squeezenet model, the predictive results of a giraffe were ruffed grouse, prairie chicken, cheetah etc.
